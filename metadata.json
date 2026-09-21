@@ -1,0 +1,6 @@
+{
+  "name": "Nova VPN",
+  "description": "Ultra-fast VPN with Smart Auto Connect, global servers (Germany, US, Netherlands, Finland, Turkey), real-time ping testing, and English/Persian language support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
